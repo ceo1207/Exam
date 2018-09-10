@@ -60,3 +60,14 @@ class Tree
  */
 public class Basic {
 }
+
+/*
+//常用库函数
+        Math.max(1,2);
+        Math.min(1,2);
+        Collections.sort();
+        Arrays.asList();
+        Arrays.sort();
+        Arrays.copyOfRange();
+
+ */
