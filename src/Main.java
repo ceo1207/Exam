@@ -1,7 +1,12 @@
-package PACKAGE_NAME;
+import java.util.*;
 
-/**
- * Created by rex on 2018/9/10.
- */
 public class Main {
+    public static void main(String[] args)
+    {
+        Scanner in = new Scanner(System.in);
+        in.nextInt();
+        in.nextLine();
+        System.out.println();
+    }
 }
+
